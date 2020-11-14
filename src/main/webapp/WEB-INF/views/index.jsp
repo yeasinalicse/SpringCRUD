@@ -1,4 +1,3 @@
-
 <%@include file="common/head_script.jsp" %>
 <body>
 <div class="wrapper">
